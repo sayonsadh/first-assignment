@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.upbanner{
+    display: flex;
+}
+#stop{
+    color: rgb(250, 31, 15);
+}
+.tips{
+    text-align: justify;
+}
+.juice{
+    margin-left:  8%;
+    margin-top:  4%;
+}
+.upbanner img{
+    border-radius: 5%;
+    margin-left: 200px;
+    margin-top:  7%;
+}
+.foodpanda{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(skyblue,blue);
+    padding: 5px;
+    border-radius: 11px;
+}
