@@ -11,13 +11,13 @@ body{
     text-align: justify;
 }
 .juice{
-    margin-left:  8%;
-    margin-top:  4%;
+    margin-left:  10%;
+    margin-top:  9%;
 }
 .upbanner img{
     border-radius: 5%;
-    margin-left: 200px;
-    margin-top:  7%;
+    margin-left: 150px;
+    margin-top:  0%;
 }
 .foodpanda{
     text-decoration: none;
@@ -25,4 +25,107 @@ body{
     background-image: linear-gradient(skyblue,blue);
     padding: 5px;
     border-radius: 11px;
+}
+.secondbanner{
+    display: flex;
+    margin-top: 100px;
+    background-image: url(backgrounds/Frame\ 57.jpg);
+    background-position: left;
+}
+.monali{
+    width: 500px;
+}
+.monalicv{
+    margin-left: 17%;
+    margin-top: 12%;
+}
+.monalipic{
+    margin-left: 5%;
+    
+}
+.monalipic img{
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 15px;
+    border-radius: 15px;
+  
+}
+.monalicontact{
+    text-decoration: none;
+    border-radius: 11px;
+    background-image: linear-gradient(gray,black);
+    color: white;
+    padding: 5px;
+}
+.czn{
+    font-size: 40px;
+    text-align: center;
+}
+#meal{
+    text-align: center;
+}
+.lastbanner{
+    display: flex;
+}
+.burger{
+    width: 300px;
+    border: 12px white solid;
+    margin: 60px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.burger img{
+    width: 300px;
+}
+
+
+
+
+.slice{
+    width: 300px;
+    border: 12px white solid;
+    margin: 60px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.slice img{
+    width: 300px;
+}
+
+
+
+
+.meat{
+    width: 300px;
+    border: 12px white solid;
+    margin: 60px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.meat img{
+    width: 300px;
+} 
+.extra{
+    display: flex;
+    background-color: rgb(215, 219, 221);
+    width: 600px;
+    height: 80px;
+    margin-left: 400px;
+    padding-bottom: 150px;
+    border-radius: 18px;
+   
+    
+}
+.h1{
+    margin: 10%;
+   
+}
+.atlast{
+    text-align: center;
+    background-color: rgb(223, 197, 197);
+    width: 700px;
+    height: 100px;
+    padding: 20px;
+    margin-left: 335px;
+    margin-top: 25px;
 }
