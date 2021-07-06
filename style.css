@@ -128,4 +128,22 @@ body{
     padding: 20px;
     margin-left: 335px;
     margin-top: 25px;
+    border-radius: 15px;
+}
+.last{
+    text-align: center;
+    background-color: rgb(144, 187, 228);
+    width: 640px;
+    height: 100px;
+    padding: 50px;
+    margin-left: 335px;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+#link{
+    text-decoration: none;
+    background-color: rgb(253, 97, 97);
+    padding: 10px;
+    border-radius: 30px;
+    color: snow;
 }
